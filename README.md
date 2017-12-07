@@ -1,7 +1,7 @@
 # hello-world
 MIAP A.T. Fun Time
 
-:smileyface:
+:smiley:
 
 [linking to linky things](www.google.com)
 
