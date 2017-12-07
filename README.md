@@ -3,7 +3,7 @@ MIAP A.T. Fun Time
 
 :smiley:
 
-[linking to linky things](www.google.com)
+[linking to linky things](https://www.google.com)
 
 - party time! 
 
