@@ -14,3 +14,5 @@ Trying to figure out emojis :sun:
 formatting branchy branch
 
 Tried changing emoji to sun (through desktop)
+
+Funtime new branch :tree:
